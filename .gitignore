@@ -1,0 +1,17 @@
+[200~# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Artifacts (figures can be regenerated)
+figures/*.png
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
