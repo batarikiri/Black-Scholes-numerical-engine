@@ -3,8 +3,7 @@
 Numerical study of the Black-Scholes PDE via FDM (Crank-Nicolson), Monte Carlo, and Delta Hedging.
 
 ## Presentation
-- [Compiled PDF](presentation/presentation.pdf)
-- [LaTeX Source](presentation/presentation.tex)
+- [Compiled PDF](presentation/black_scholes_pres.pdf)
 
 ## Project Structure
 - `src/bs_engine.py` — Analytical solution + FDM solver
