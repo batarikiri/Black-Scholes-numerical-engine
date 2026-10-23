@@ -9,7 +9,7 @@ venv/
 .ipynb_checkpoints/
 
 # Artifacts (figures can be regenerated)
-figures/*.png
+
 data/*.csv
 
 # OS
